@@ -1,0 +1,9 @@
+# Ignore dataset folder
+dataset/
+data/
+*.csv
+*.zip
+*.h5
+*.pth
+*.pkl
+DESTRUPT
